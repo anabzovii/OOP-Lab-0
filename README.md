@@ -2,7 +2,7 @@
 ## Ana Bzovi
 
 ![installzsh](screenshots/installzsh.png)\
-![installgcc](screenshots/installgcc.png)\
+![insallgcc](screenshots/insallgcc.png)\
 ![installmake](screenshots/installmake.png)\
 ![insalgit](screenshots/insalgit.png)\
 ![gitinit](screenshots/gitinit.png)\
